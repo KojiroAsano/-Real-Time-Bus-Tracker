@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Map Animation</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="./styles.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div id="map"></div>
+    <div class="map-overlay top">
+        <button style="font-size: 2em" onclick="run()">
+            Show the all bus stop you entered.
+        </button>
+        <div class="overflow-scroll explanation">
+            <p>20 - Milpitas BART - Sunnyvale Transit Center</p>
+            <p>21 - Stanford Shopping Center - Santa Clara Transit Center</p>
+            <p>27 - Winchester Station - Kaiser San Jose via Downtown Los Gatos</p>
+            <p>31 - Evergreen Valley College - Eastridge</p>
+            <p>37 - West Valley College - Capitol Station</p>
+            <p>39 - Eastridge - The Villages</p>
+            <p>40 - Foothill College - Mountain View Transit Center via North Bayshore</p>
+            <p>42 - Evergreen Valley College - Santa Teresa Station</p>
+            <p>44 - Milpitas BART - McCarthy Ranch via Tasman & Alder</p>
+            <p>47 - Milpitas BART - McCarthy Ranch via Park Victoria</p>
+            <p>51 - Moffett Field/Ames Center - West Valley College</p>
+            <p>52 - Foothill College - Mountain View Transit Center via El Monte</p>
+            <p>53 - Sunnyvale Transit Center - Santa Clara Transit Center</p>
+            <p>55 - Old Ironsides Station - De Anza College</p>
+            <p>56 - Lockheed Martin - Tamien Station</p>
+            <p>59 - Saratoga & Stevens Creek -Baypointe Station via Alviso</p>
+            <p>71 - Milpitas BART – Eastridge</p>
+            <p>83 - Almaden & McKean - Ohlone-Chynoweth Station</p>
+            <p>84 - Gilroy Transit Center - Saint Louise Hospital via Gilroy Outlets/p>
+            <p>85 - Gilroy Transit Center - Saint Louise Hospital via west Gilroy</p>
+            <p>86 - Gavilan College - Gilroy Transit Center</p>
+            <p>87 - Morgan Hill Civic Center - Burnett Avenue</p>
+            <p>89 - California Avenue Caltrain - Palo Alto VA Hospital</p>
+        </div>
+        
+    </div>
+    <script src="./mapanimation.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+</body>
+
+</html>
