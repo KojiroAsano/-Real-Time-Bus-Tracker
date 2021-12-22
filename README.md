@@ -25,5 +25,5 @@
   I will update so that bus move in one direction. Also, so far there is only local line, but I will add more line VTA produces.
   
 ## License information: 
- The most of the program is coded and contrubuted by MIT. If you use the part of this code in your program and show it to public, please include the name of ***MIT***.
+ ***MIT***.
  Also, this program include the data from **[VTA_Data](https://gis.vta.org/gis/rest/services/Transit/BusRoutes_StopsJanuary2020_ODP/MapServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=json)**, so if you use the data, please include the name of ***VTA***
