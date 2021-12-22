@@ -1,4 +1,4 @@
-# -Real-Time-Bus-Tracker-Week9-
+# -Real-Time-Bus-Tracker
 
 <img src="VTAbustracking1.png" width='300'/>
 <img src="VTAbustracking2.png" width='300'/>
