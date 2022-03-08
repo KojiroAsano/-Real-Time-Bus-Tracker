@@ -1,8 +1,8 @@
 # -Real-Time-Bus-Tracker
 
 <div>
-<img src="VTAbustracking1.png" width='400'/>
-<img src="VTAbustracking2.png" width='400'/>
+<img src="VTAbustracking1.png" width='500'/>
+<img src="VTAbustracking2.png" width='500'/>
 </div>
   
 ## Description:
