@@ -1,8 +1,10 @@
 # -Real-Time-Bus-Tracker
 
-<img src="VTAbustracking1.png" width='300'/>
-<img src="VTAbustracking2.png" width='300'/>
-
+<div>
+<img src="VTAbustracking1.png" width='400'/>
+<img src="VTAbustracking2.png" width='400'/>
+</div>
+  
 ## Description:
   This is assignment from ***Professional Certificate in Coding: Full Stack Development with MERN*** Week9.
   This program consists of javascript, html, and img files.
