@@ -6,7 +6,6 @@
 </div>
   
 ## Description:
-  This is assignment from ***Professional Certificate in Coding: Full Stack Development with MERN*** Week9.
   This program consists of javascript, html, and img files.
   This program search all of the busstop you entered.
 
